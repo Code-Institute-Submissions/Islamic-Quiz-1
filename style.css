@@ -66,33 +66,22 @@ h1 {
 
 
 /* Quiz Page */
-
-body {
-    /* background-image: url('./img/bg5.jpg');
-      background-repeat: no-repeat;
-      background-size: cover; */
-      background: linear-gradient(90deg, rgb(194, 40, 99) 0%, rgb(77, 187, 201) 100%);
-  }
-  
   
   .choice-space {
     display: flex;
     margin-bottom: 1.5rem;
-    /* width: 100%; */
+    width: 100%;
     border-radius: 26px;
     font-size: 3rem;
-    min-width: 80rem; 
     padding: 2rem;
-    background: linear-gradient(90deg, rgb(57, 141, 126) 0%, rgb(77, 137, 201) 100%);
-    transition: transform 150ms;
-    transform: scale(1.08);
-    margin-left: 4.5rem;
+    background: linear-gradient(90deg, rgb(230, 13, 128) 0%, rgb(6, 128, 142) 100%);
+    margin-left: 1.5rem;
   }
   
   .choice-space:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(68, 211, 236, 0.5);
-    transform: scale(1.02) translateZ(0);
+    transform: scale(1.01) translateZ(0);
   }
   
   .quiz {
@@ -117,7 +106,8 @@ body {
     padding: 1rem;
     color: #fff;
     font-family: cursive;
-    font-weight: 600;
+    font-weight: 500;
+    font-size: 2.5rem;
   }
   
   .correct {
@@ -160,8 +150,8 @@ body {
   }
   
   @media screen and (max-width: 768px) {
-    .questionSpace {
-      min-width: 40rem;
+    .choice-space {
+      min-width: 20rem;
     }
   }
 
@@ -169,11 +159,6 @@ body {
   /* Final Page */
 
   .page-space {
-    /* width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 30rem; */
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -186,20 +171,41 @@ body {
 }
 
 .congrats {
-    font-size: 5rem;
+    font-size: 4.5rem;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 800;
-    margin-top: 6rem;
+    margin-top: 13rem;
     letter-spacing: 1rem;
+    width: 100%;
 }
 
-.order {
-    font-size: 4rem;
-    color: whitesmoke;
-    padding: 2rem;
+.play-btn {
+    font-size: 3.4rem;
+    padding: 4rem;
+    width: 30rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    text-decoration: none;
+    color: #fff;
+    background: linear-gradient(90deg, rgb(103, 203, 212) 0%, rgb(145, 13, 110) 100%);
+    border-radius: 30px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
 }
 
-.change {
-    color: palevioletred;
-    font-size: 2.5rem;
+.play-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0.4rem 1.4rem 0 rgb(8, 115, 242, 0.5);
+    transition: transform 150ms;
+    transform: scale(1.10);
 }
+
+.play-btn[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+
+
+
