@@ -70,12 +70,12 @@ h1 {
   .choice-space {
     display: flex;
     margin-bottom: 1.5rem;
-    width: 100%;
+    width: 90%;
     border-radius: 26px;
     font-size: 3rem;
     padding: 2rem;
     background: linear-gradient(90deg, rgb(230, 13, 128) 0%, rgb(6, 128, 142) 100%);
-    margin-left: 1.5rem;
+    /* margin-left: 1.5rem; */
   }
   
   .choice-space:hover {
