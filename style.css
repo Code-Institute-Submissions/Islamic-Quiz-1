@@ -13,14 +13,17 @@ body {
     background-size: cover; 
 }
 
-h1 {
-    font-size: 8rem;
-    color: white;
-    margin-bottom: 5rem;
+
+/* Homepage */
+
+.intro {
+    color: #fff;
+    margin-top: 8rem;
     font-family: fantasy;
     font-weight: 500;
-    margin-right: 10px;
+    margin-left: 8rem;
     letter-spacing: 1rem;
+    font-size: 4.5rem;
 }
 
 
@@ -31,21 +34,21 @@ h1 {
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    max-width: 80rem;
+    max-width: 50rem;
     margin: 0 auto;
     padding: 2rem;
 }
 
 
 .btn {
-    font-size: 3.4rem;
+    font-size: 2.5rem;
     padding: 2rem;
     width: 30rem;
     text-align: center;
-    margin-bottom: 1rem;
+    margin-top: 1rem;
     text-decoration: none;
-    color: #fff;
-    background: linear-gradient(90deg, rgb(103, 203, 212) 0%, rgb(22, 95, 184) 100%);
+    color: whitesmoke;
+    background: linear-gradient(90deg, rgb(103, 203, 212) 0%, rgb(189, 8, 249) 100%);
     border-radius: 30px;
     font-family:'Courier New', Courier, monospace;
     font-weight: 600;
@@ -70,12 +73,10 @@ h1 {
   .choice-space {
     display: flex;
     margin-bottom: 1.5rem;
-    width: 90%;
     border-radius: 26px;
     font-size: 3rem;
     padding: 2rem;
     background: linear-gradient(90deg, rgb(230, 13, 128) 0%, rgb(6, 128, 142) 100%);
-    /* margin-left: 1.5rem; */
   }
   
   .choice-space:hover {
@@ -89,8 +90,8 @@ h1 {
     justify-content: center;
   }
   
-  h1 {
-    font-size: 6.5rem;
+  #question {
+    font-size: 4rem;
     font-family: fantasy;
     margin-bottom: 6rem;
     color: aliceblue;
@@ -122,6 +123,7 @@ h1 {
   #quizContent {
     display: flex;
     justify-content: space-between;
+    font-size: 5rem;
   }
   
   .quizText {
@@ -146,12 +148,11 @@ h1 {
   #mainProgress {
     height: 100%;
     background: rgb(11, 223, 36);
-    width: 0%;
   }
   
   @media screen and (max-width: 768px) {
     .choice-space {
-      min-width: 20rem;
+      min-width: 40rem;
     }
   }
 
