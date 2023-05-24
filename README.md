@@ -14,18 +14,17 @@ This is a Quiz Website that tests users on their Islamic Knowledge. It consists 
 
 1. HOMEPAGE
 
-
+![image](https://github.com/Rafz9Abz9/Islamic-Quiz/assets/126483536/4f2c0ab6-0857-46b8-9bf2-569cc7ef09df)
 
 
 2. QUIZ PAGE
 
-
+![image](https://github.com/Rafz9Abz9/Islamic-Quiz/assets/126483536/376fa130-72dc-4d3b-aa23-47d0ab3af863)
 
 
 3. FINAL PAGE
 
-
-
+![image](https://github.com/Rafz9Abz9/Islamic-Quiz/assets/126483536/69ce8398-0c35-4c34-b91e-dd36893991ba)
 
 
 
