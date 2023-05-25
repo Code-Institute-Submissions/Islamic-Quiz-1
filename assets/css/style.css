@@ -8,9 +8,7 @@
 }
 
 body {
-    background-image: url('./img/bg5.jpg');
-    background-repeat: no-repeat;
-    background-size: cover; 
+    background: linear-gradient(90deg, rgb(103, 203, 212) 0%, rgb(189, 8, 249) 100%);
 }
 
 img {
@@ -22,7 +20,7 @@ img {
 
 .intro {
     color: #fff;
-    margin-top: 8rem;
+    margin-bottom: 10rem;
     font-family: fantasy;
     font-weight: 500;
     margin-left: 8rem;
@@ -52,7 +50,7 @@ img {
     margin-top: 1rem;
     text-decoration: none;
     color: whitesmoke;
-    background: linear-gradient(90deg, rgb(103, 203, 212) 0%, rgb(189, 8, 249) 100%);
+    background: linear-gradient(90deg, rgb(103, 203, 212) 0%, rgb(6, 73, 114) 100%);
     border-radius: 30px;
     font-family:'Courier New', Courier, monospace;
     font-weight: 600;
