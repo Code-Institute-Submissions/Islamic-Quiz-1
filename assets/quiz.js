@@ -19,7 +19,6 @@ let questions = [
     choice4: 'Falaq',
     answer: 2,
   },
-  // Rest of the questions...
 ];
 
 const SCORE_POINTS = 1;
