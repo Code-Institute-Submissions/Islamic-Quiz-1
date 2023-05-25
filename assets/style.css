@@ -78,8 +78,8 @@ img {
     display: flex;
     margin-bottom: 1.5rem;
     border-radius: 26px;
-    font-size: 3rem;
-    padding: 2rem;
+    font-size: 2rem;
+    padding: 1rem;
     background: linear-gradient(90deg, rgb(230, 13, 128) 0%, rgb(6, 128, 142) 100%);
   }
   
