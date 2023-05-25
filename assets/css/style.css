@@ -86,7 +86,7 @@ img {
   .choice-space:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(68, 211, 236, 0.5);
-    transform: scale(1.01) translateZ(0);
+    transform: scale(1.06) translateZ(0);
   }
   
   .quiz {
