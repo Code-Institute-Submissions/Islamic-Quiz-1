@@ -226,6 +226,7 @@ img {
 @media screen and (max-width: 768px) {
   .intro {
     margin-left: 2rem;
+    text-align: center;
   }
 
   .page-space {
