@@ -35,21 +35,25 @@ This is a Quiz Website that tests users on their Islamic Knowledge. It consists 
 1. Homepage Section:
 
 
+
 2. Quiz Page Section:
 
-3. Questions-Area:
+
+
+3. Final Page Section:
+
+
+
+4. Questions-Area:
 - This is a countdown of the total questions available and it shows users what question they are currently on.
 
-4. Progress Bar:
-- This is a bar that shows the progress of a user. If a user gets a question correct, the bar is highlighted, and if they get a question incorrect, then the bar stays the same. It tracks the progress of users.
-
 5. Score-Area:
-- This is what tracks the score of users. Users get 100 points per question that they answer correctly. 
+- This is what tracks the score of users. Users get 1 point per question that they answer correctly. 
 
 6. Question-Area:
 - This is the area that shows the questions that needs to be answered by users.
 
-7. Options:
+7. Choices:
 - This is the area that consists of the 4 different options available for users to choose from.
 - User needs to click on the text in order to select an option. 
 - If the selected option is CORRECT, the bar will turn GREEN.
@@ -87,6 +91,8 @@ VALIDATOR TESTING:
 
 LIGHTHOUSE TESTING RESULTS:
 
+
+
 # Languages Used
 
 - HTML
@@ -110,23 +116,25 @@ LIGHTHOUSE TESTING RESULTS:
 - Save it and it will publish the site.
 - URL should be visible after the above steps have been completed.
 
-Live Link: 
+Live Link: rafz9abz9.github.io/Islamic-Quiz/
 
 # Credits
 
 CONTENT
+
 - The questions used for the quiz website was taken from a folder I had saved years ago for quizzes as I organise classes weekly with other people regarding Islam. 
+
 - So I just took some of the questions from the folder we use. I can't remember the link for it as I had created a separate older for them years ago and saved them there. 
 
-- Template for quiz website was inspired by this YouTube video: https://youtu.be/f4fB9Xg2JEY
+- Template for quiz website was inspired by this YouTube video: 
+
+https://youtu.be/f4fB9Xg2JEY
 
 
 
 
 
-MEDIA
-- Background image used (link is here): https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Ftrivia-backgrounds&psig=AOvVaw2s7WutD5zRGGmtFMDytyMs&ust=1684861712608000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjGmZS1if8CFQAAAAAdAAAAABAR
-- Background image:
+
 
 
 
