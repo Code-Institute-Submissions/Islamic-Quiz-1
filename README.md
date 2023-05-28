@@ -75,7 +75,7 @@ VALIDATOR TESTING: Results of images can be found in assets folder (img folder).
 
 - CSS: https://jigsaw.w3.org/css-validator/
 
-- JavaScript: https://jshint.com/
+- JavaScript: https://jshint.com/: no errors found
 
 LIGHTHOUSE TESTING RESULTS: Results of images can be found in assets folder (img folder).
 
