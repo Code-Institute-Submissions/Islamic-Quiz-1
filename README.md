@@ -14,34 +14,22 @@ This is a Quiz Website that tests users on their Islamic Knowledge. It consists 
 
 # Wireframes
 
-1. HOMEPAGE
+1. HOMEPAGE: Image can be found in assets folder (img folder).
 
-![image](https://github.com/Rafz9Abz9/Islamic-Quiz/assets/126483536/4f2c0ab6-0857-46b8-9bf2-569cc7ef09df) 
+2. QUIZ PAGE: Image can be found in assets folder (img folder).
 
+3. FINAL PAGE: Image can be found in assets folder (img folder).
 
-2. QUIZ PAGE
-
-![image](https://github.com/Rafz9Abz9/Islamic-Quiz/assets/126483536/376fa130-72dc-4d3b-aa23-47d0ab3af863)
-
-
-3. FINAL PAGE
-
-![image](https://github.com/Rafz9Abz9/Islamic-Quiz/assets/126483536/69ce8398-0c35-4c34-b91e-dd36893991ba)
 
 
 
 # Existing Features
 
-1. Homepage Section:
+1. Homepage Section: Image can be found in assets folder (img folder).
 
+2. Quiz Page Section: Image can be found in assets folder (img folder).
 
-
-2. Quiz Page Section:
-
-
-
-3. Final Page Section:
-
+3. Final Page Section: Image can be found in assets folder (img folder).
 
 
 4. Questions-Area:
@@ -79,9 +67,9 @@ This is a Quiz Website that tests users on their Islamic Knowledge. It consists 
 2. Chrome
 3. Microsoft Edge
 
-VALIDATOR TESTING:
+VALIDATOR TESTING: Results of images can be found in assets folder (img folder).
 
-- HTML, CSS, and JavaScript Validators were used to check codes for syntax errors:
+- HTML, CSS, and JavaScript Validators were used to check codes for syntax errors: NO ERRORS FOUND. 
 
 - HTML: https://validator.w3.org/
 
@@ -89,8 +77,7 @@ VALIDATOR TESTING:
 
 - JavaScript: https://jshint.com/
 
-LIGHTHOUSE TESTING RESULTS:
-
+LIGHTHOUSE TESTING RESULTS: Results of images can be found in assets folder (img folder).
 
 
 # Languages Used
