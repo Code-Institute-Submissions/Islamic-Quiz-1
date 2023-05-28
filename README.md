@@ -94,6 +94,7 @@ LIGHTHOUSE TESTING RESULTS: Results of images can be found in assets folder (img
 - Lighthouse: reviewing website.
 - Code Institute: used the README template.
 - YouTube: for ideas on contents for project. 
+- Visual Studio Code: for writing code.
 
 # Deployment
 
