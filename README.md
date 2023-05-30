@@ -2,6 +2,8 @@
 
 This is a Quiz Website that tests users on their Islamic Knowledge. It consists of random topics such as: Pillars of Islam,  Prophets, Articles of Faith, Women in Islam, Time in the Grave, Jannah (Heaven), Jahannam (Hell), and the Qur'an. This website is created in order to assist Muslims and Non-Muslims in their Islamic Knowledge. 
 
+Live Link: rafz9abz9.github.io/Islamic-Quiz/
+
 # User Stories
 - As a user, I want to be able to navigate clearly where the 'Start Quiz' button is.
 - As a user, I want to be able to track my scores.
